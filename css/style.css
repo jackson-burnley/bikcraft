@@ -3,8 +3,16 @@
 @import "./global/header.css";
 @import "./global/global.css";
 
+/*Utilidades */
+@import "./utilidades/componentes.css";
+@import "./utilidades/tipografia.css";
+@import "./utilidades/cores.css";
+
 /*Home*/
 @import "./home/introducao.css";
 
-/*Utilidades */
-@import "./utilidades/componentes.css";
+/*Lista de bicicletas */
+@import "./bicicletas/bicicletas-lista.css";
+
+/*Tecnologia */
+@import "./home/tecnologia.css";
